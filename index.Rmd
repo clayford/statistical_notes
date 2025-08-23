@@ -142,9 +142,6 @@ Demo of how to create split violin plots using `introdataviz::geom_split_violin(
 - [The stats::filter() function](stats_filter_function.html) (2022-10-12)      
 How to use the the base R `filter()` function to calculate moving averages.
 
-- [The normality assumption](normality.html) (2022-09-21, Jacob Goldstein-Greenwood)      
-For t-tests and linear models, we're not worried about the overall normality of the dependent variable. We care about normality around conditional means.
-
 - [Logistic regression interactions](logistic_regression_interactions.html) (2022-09-19)      
 How to interpret and visualize 2-level categorical variable interactions in a logistic regression model.
 
