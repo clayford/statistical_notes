@@ -182,8 +182,8 @@ Student wondered why confidence intervals on marginal means were so large. Due t
 - [Nomogram demo](nomogram_demo.html) (2022-03-31)     
 This demonstration is a modification of the example available on the `nomogram()` help page from the {rms} package. It demonstrates a nomogram for a logistic regression model using simulated data.
 
-- [mixed-effect proportional odds mode](simulate_analysis.html) (2022-02-25)       
-An example of a mixed-effect proportional odds mode using simulated data and the `clmm()` function from the {ordinal} package.
+- [mixed-effect proportional odds model](simulate_analysis.html) (2022-02-25)       
+An example of a mixed-effect proportional odds model using simulated data and the `clmm()` function from the {ordinal} package.
 
 - [Robustness of t-test](robustness_of_t-test.html) (2022-01-07)    
 Simulation demonstrating robustness of t-test to non-normal data.
