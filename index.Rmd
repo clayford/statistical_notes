@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###  Reports generated for various consultations for the UVA StatLab.
 
-Unless otherwise noted, reports are by Clay Ford. 
+By Clay Ford
 
 ### 2025
 
